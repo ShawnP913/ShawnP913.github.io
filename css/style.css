@@ -1,11 +1,11 @@
 table {
-  border-bottom: 1px solid #ff6347;
-  border-right: 1px solid #ff6347;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
   border-collapse: collapse;
 }
 
 th,
 td {
-  border-top: 1px solid #ff6347;
-  border-left: 1px solid #ff6347;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
 }
