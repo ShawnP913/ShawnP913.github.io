@@ -12,7 +12,7 @@ body {
 
 #header {
   grid-area: header;
-  float: center;
+  float: inherit;
   background-color:#5f9ea0;
   font-size: 40px;
   grid-row-start: 1;
