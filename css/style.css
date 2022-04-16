@@ -10,16 +10,22 @@ body {
   grid-column-end: 3
 }
 
-#geography {
+.geography {
   grid-area: geography;
+  grid-column-start: 2;
+  grid-column-end: 2
 }
 
-#government {
+.government {
   grid-area: government;
+  grid-column-start: 2;
+  grid-column-end: 3
 }
 
-#militaryandsecurity {
+.militaryandsecurity {
   grid-area: militaryandsecurity;
+  grid-column-start: 3;
+  grid-column-end: 3
 }
 
 .grid {
