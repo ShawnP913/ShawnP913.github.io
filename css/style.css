@@ -8,13 +8,13 @@ body {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-template-rows: (200px, 200px, 200px, 200px, 200px)
-  margin: 50px;
 }
 
 #header {
   grid-area: header;
   background-color:#ADD8E6;
   font-size: 50px;
+  margin:50px;
   grid-row-start: 1;
   grid-row-end: 2;
   grid-column-start: 1;
