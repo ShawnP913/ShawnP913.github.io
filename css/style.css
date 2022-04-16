@@ -31,7 +31,7 @@ body {
 
 #introduction {
   grid-area: introduction;
-  background-color: #ddd;
+  background-color: #FFFF00;
   grid-row-start: 2;
   grid-row-end: 3;
   grid-column-start: 1;
@@ -58,7 +58,7 @@ body {
 
 #militaryandsecurity {
   grid-area: militaryandsecurity;
-  background-color: #bbb;
+  background-color: ##FFFF00;
   grid-row-start: 4;
   grid-row-end: 5;
   grid-column-start: 1;
@@ -67,7 +67,7 @@ body {
 
 #militarypersonnel {
   grid-area: militarypersonnel;
-  background-color: #bbb;
+  background-color: #FFFF00;
   grid-row-start: 4;
   grid-row-end: 5;
   grid-column-start: 2;
