@@ -7,9 +7,8 @@ body {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(1fr 1fr);
-  grid-template-rows: repeat(2, 200px)
-
+  grid-template-columns: (1fr 1fr);
+  grid-template-rows: (2, 200px)
   grid-template-areas:
   "introduction" "introduction"
   "geography" "government";
