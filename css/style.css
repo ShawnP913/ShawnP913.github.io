@@ -3,10 +3,6 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
-#introduction {
-  background-color: #ddd;
-}
-
 }
 
 .grid {
@@ -21,6 +17,7 @@ body {
 
 #introduction {
   grid-area: introduction;
+  background-color: #ddd;
 }
 
 #geography {
