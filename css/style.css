@@ -45,6 +45,15 @@ body {
   grid-column-end: 3;
 }
 
+#militarypersonnel {
+  grid-area: militarypersonnel;
+  background-color: #bbb;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
 table {
   border-bottom: 1px solid #000;
   border-right: 1px solid #000;
