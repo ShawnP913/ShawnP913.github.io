@@ -3,8 +3,10 @@ body {
   font-family: sans-serif;
 }
 
-section {
-   background-color: #pink;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2fr 1fr);
+  grid-template-rows: repeat(3, 200px)
 }
 
 
