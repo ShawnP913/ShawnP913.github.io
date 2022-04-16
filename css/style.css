@@ -3,17 +3,6 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: (1fr 1fr);
-  grid-template-rows: (2, 200px)
-  grid-template-areas:
-  "introduction" "introduction"
-  "geography" "government";
-}
-
 #introduction {
   grid-area: introduction;
   background-color: #ddd;
@@ -27,7 +16,14 @@ body {
   grid-area: government;
 }
 
-
+.grid {
+  display: grid;
+  grid-template-columns: (1fr 1fr);
+  grid-template-rows: (2, 200px)
+  grid-template-areas:
+  "introduction" "introduction"
+  "geography" "government";
+}
 
 table {
   border-bottom: 1px solid #000;
