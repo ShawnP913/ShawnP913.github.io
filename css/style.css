@@ -20,6 +20,7 @@ body {
 
 #geography {
   grid-area: geography;
+  background-color: #eee;
   grid-row-start: 2;
   grid-row-end: 3;
   grid-column-start: 1;
@@ -28,6 +29,7 @@ body {
 
 #government {
   grid-area: government;
+  background-color: #fff;
   grid-row-start: 2;
   grid-row-end: 3;
   grid-column-start: 2;
@@ -36,6 +38,7 @@ body {
 
 #militaryandsecurity {
   grid-area: militaryandsecurity;
+  background-color: #bbb;
   grid-row-start: 3;
   grid-row-end: 4;
   grid-column-start: 1;
