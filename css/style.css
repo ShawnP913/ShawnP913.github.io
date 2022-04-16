@@ -12,8 +12,7 @@ body {
 
 #header {
   grid-area: header;
-  float: right;
-  background-color:#5f9ea0;
+  background-color:#ADD8E6;
   font-size: 50px;
   grid-row-start: 1;
   grid-row-end: 2;
@@ -23,6 +22,7 @@ body {
 
 #ukraineflag {
   grid-area: ukraineflag;
+  background-color:#ADD8E6;
   grid-row-start: 1;
   grid-row-end: 2;
   grid-column-start: 2;
