@@ -18,7 +18,7 @@ body {
   grid-row-end: 2;
   grid-column-start: 1;
   grid-column-end: 2;
-  padding: 25px
+  padding: 20px
 }
 
 #ukraineflag {
@@ -28,7 +28,7 @@ body {
   grid-row-end: 2;
   grid-column-start: 2;
   grid-column-end: 3;
-  padding: 25px
+  padding: 20px
 }
 
 #introduction {
@@ -38,7 +38,7 @@ body {
   grid-row-end: 3;
   grid-column-start: 1;
   grid-column-end: 3;
-  padding: 25px
+  padding: 20px
 }
 
 #geography {
@@ -48,7 +48,7 @@ body {
   grid-row-end: 4;
   grid-column-start: 1;
   grid-column-end: 2;
-  padding: 25px
+  padding: 20px
 }
 
 #government {
@@ -58,7 +58,7 @@ body {
   grid-row-end: 4;
   grid-column-start: 2;
   grid-column-end: 3;
-  padding: 25px
+  padding: 20px
 }
 
 #militaryandsecurity {
@@ -68,7 +68,7 @@ body {
   grid-row-end: 5;
   grid-column-start: 1;
   grid-column-end: 3;
-  padding: 25px
+  padding: 20px
 }
 
 #militarypersonnel {
@@ -78,7 +78,7 @@ body {
   grid-row-end: 5;
   grid-column-start: 2;
   grid-column-end: 3;
-  padding: 25px
+  padding: 20px
 }
 
 #otherresources {
@@ -87,7 +87,7 @@ body {
   grid-row-end: 6;
   grid-column-start: 1;
   grid-column-end: 3;
-  padding: 25px
+  padding: 20px
 }
 
 table {
