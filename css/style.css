@@ -7,7 +7,16 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  grid-template-rows: (200px, 200px, 200px, 200px)
+  grid-template-rows: (200px, 200px, 200px, 200px, 200px)
+}
+
+#header {
+  grid-area: header;
+  background-color:#5f9ea0;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 3;
 }
 
 #ukraineflag {
@@ -17,8 +26,8 @@ body {
 #introduction {
   grid-area: introduction;
   background-color: #ddd;
-  grid-row-start: 1;
-  grid-row-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
   grid-column-start: 1;
   grid-column-end: 3;
 }
@@ -26,8 +35,8 @@ body {
 #geography {
   grid-area: geography;
   background-color: #5f9ea0;
-  grid-row-start: 2;
-  grid-row-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 4;
   grid-column-start: 1;
   grid-column-end: 2;
 }
@@ -35,8 +44,8 @@ body {
 #government {
   grid-area: government;
   background-color: #;
-  grid-row-start: 2;
-  grid-row-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 4;
   grid-column-start: 2;
   grid-column-end: 3;
 }
@@ -44,8 +53,8 @@ body {
 #militaryandsecurity {
   grid-area: militaryandsecurity;
   background-color: #bbb;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-row-start: 4;
+  grid-row-end: 5;
   grid-column-start: 1;
   grid-column-end: 3;
 }
@@ -53,16 +62,16 @@ body {
 #militarypersonnel {
   grid-area: militarypersonnel;
   background-color: #bbb;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-row-start: 4;
+  grid-row-end: 5;
   grid-column-start: 2;
   grid-column-end: 3;
 }
 
 #otherresources {
   background-color: #5f9ea0;
-  grid-row-start: 4;
-  grid-row-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 6;
   grid-column-start: 1;
   grid-column-end: 3;
 }
