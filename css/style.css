@@ -3,6 +3,12 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat (3, 1fr);
+  grid-template-rows: (200px, 200px, 200px)
+}
+
 .introduction {
   grid-area: introduction;
   background-color: #ddd;
@@ -26,13 +32,6 @@ body {
   grid-area: militaryandsecurity;
   grid-column-start: 3;
   grid-column-end: 3
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat (3, 1fr);
-  grid-template-rows: (200px, 200px, 200px)
-  grid-template-areas:
 }
 
 table {
