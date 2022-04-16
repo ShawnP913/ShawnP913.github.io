@@ -14,7 +14,7 @@ body {
   grid-area: header;
   float: right;
   background-color:#5f9ea0;
-  font-size: 40px;
+  font-size: 50px;
   grid-row-start: 1;
   grid-row-end: 2;
   grid-column-start: 1;
