@@ -1,8 +1,4 @@
 
-head {
-  float:right;
-}
-
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   background-color: #ddd;
@@ -12,6 +8,10 @@ body {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-template-rows: (200px, 200px, 200px, 200px)
+}
+
+#ukraineflag {
+  float: right;
 }
 
 #introduction {
