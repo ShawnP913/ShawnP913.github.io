@@ -9,6 +9,10 @@ body {
   grid-template-rows: (200px, 200px, 200px)
 }
 
+.figure {
+  float: right;
+}
+
 #introduction {
   grid-area: introduction;
   background-color: #ddd;
