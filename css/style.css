@@ -21,6 +21,7 @@ body {
 }
 
 #ukraineflag {
+  object-fit: cover;
   grid-area: ukraineflag;
   grid-row-start: 1;
   grid-row-end: 2;
