@@ -3,10 +3,14 @@ body {
   font-family: sans-serif;
 }
 
+
+
+}
+
 .grid {
   display: grid;
-  grid-template-columns: repeat(2fr 1fr);
-  grid-template-rows: repeat(3, 200px)
+  grid-template-columns: repeat(1fr 1fr);
+  grid-template-rows: repeat(2, 200px)
 
   grid-template-areas:
   "introduction" "introduction"
