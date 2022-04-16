@@ -16,13 +16,18 @@ body {
   grid-area: government;
 }
 
+#militaryandsecurity {
+  grid-area: militaryandsecurity;
+}
+
 .grid {
   display: grid;
   grid-template-columns: (1fr 1fr);
-  grid-template-rows: (2, 200px)
+  grid-template-rows: (3, 200px)
   grid-template-areas:
   "introduction" "introduction"
-  "geography" "government";
+  "geography" "government"
+  "militaryandsecurity" "militaryandsecurity";
 }
 
 table {
