@@ -18,13 +18,13 @@ body {
 
 .geography {
   grid-area: geography;
-  grid-column-start: 2;
+  grid-row-start: 2;
   grid-column-end: 2
 }
 
 .government {
   grid-area: government;
-  grid-column-start: 2;
+  grid-row-start: 2;
   grid-column-end: 3
 }
 
