@@ -6,15 +6,18 @@ body{
 
 #a {
   grid-area: a;
+  grid-row-start: 1 / 2;
   background-color: #000000;
 }
 
 #b {
   grid-area: b;
+  grid-row-start: 2 / 3;
   background-color: #FFFFFF;
 }
 
 #c {
   grid-area: c;
+  grid-row-start: 3 / 4;
   background-color: #000000;
 }
