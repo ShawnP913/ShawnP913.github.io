@@ -1,7 +1,7 @@
 
 body{
   display:grid;
-  grid-template-rows: (300px 500px 300px)
+  grid-template-rows: 1fr 1fr 1fr;
 }
 
 #a {
