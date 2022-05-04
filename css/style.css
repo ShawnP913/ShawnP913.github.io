@@ -5,13 +5,16 @@ body{
 }
 
 #a {
+  grid-area: a;
   background-color: #000000;
 }
 
 #b {
+  grid-area: b;
   background-color: #FFFFFF;
 }
 
 #c {
+  grid-area: c;
   background-color: #000000;
 }
