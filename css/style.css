@@ -1,0 +1,17 @@
+
+body{
+  display:grid;
+  grid-template-rows: 1fr 3fr 1fr
+}
+
+#a {
+  background-color: #000000;
+}
+
+#b {
+  background-color: #FFFFFF;
+}
+
+#c {
+  background-color: #000000;
+}
