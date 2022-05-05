@@ -1,4 +1,7 @@
 
+body{
+  background-color: #000000;
+}
 .grid {
   display:grid;
   grid-template-rows: 150px 400px 150px;
