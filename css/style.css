@@ -4,7 +4,7 @@ body{
 }
 .grid {
   display:grid;
-  grid-template-rows: 150px 400px 150px;
+  grid-template-rows: 100px 500px 100px;
 }
 
 #a {
