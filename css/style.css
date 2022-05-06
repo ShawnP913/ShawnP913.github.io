@@ -16,10 +16,6 @@ img {
   grid-template-rows: 15% auto 15%;
 }
 
-#menu ul {
-  padding: 20px;
-}
-
 #nameheader {
   font-size: 40px;
 }
@@ -85,4 +81,5 @@ img {
   margin: 0px 50px 0px 10px;
   font-size: 20px;
   max-width: 100%;
+  padding: 20px;
 }
