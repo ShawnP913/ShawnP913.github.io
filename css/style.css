@@ -2,6 +2,13 @@
 body{
   background-color: #232b2b;
 }
+
+img {
+  width: 200px;
+  height: auto;
+
+}
+
 .grid {
   display:grid;
   grid-template-columns: 3fr 1fr;
