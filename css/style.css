@@ -52,8 +52,8 @@ img {
   grid-area: b;
   grid-column-start:2;
   grid-column-end: 3;
-  grid-row-start: 2;
-  grid-row-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 4;
   background-color: #FFFFFF;
   margin: 0px 50px 0px 10px;
   font-size: 20px;
