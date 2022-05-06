@@ -81,6 +81,9 @@ img {
   margin: 0px 50px 0px 10px;
   font-size: 20px;
   max-width: 100%;
+}
+
+#menu ul {
   list-style-type: none;
 }
 
