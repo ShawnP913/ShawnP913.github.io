@@ -18,7 +18,10 @@ img {
 
 #menulist {
   padding: 20px;
-  display:inline-block;
+}
+
+#menulist ul {
+  padding: 20px;
 }
 
 #nameheader {
