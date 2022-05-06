@@ -17,7 +17,7 @@ img {
 
 .grid {
   display:grid;
-  grid-template-columns: 3fr 1fr 1fr;
+  grid-template-columns: 400px 200px 100px;
   grid-template-rows: 100px 550px 100px;
 }
 
