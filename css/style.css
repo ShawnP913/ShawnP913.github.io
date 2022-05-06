@@ -16,6 +16,10 @@ img {
   grid-template-rows: 100px 550px 100px;
 }
 
+#menulist {
+  padding: 20px;
+}
+
 #nameheader {
   font-size: 40px;
 }
