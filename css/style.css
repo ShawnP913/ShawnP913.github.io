@@ -16,11 +16,7 @@ img {
   grid-template-rows: 100px 550px 100px;
 }
 
-#menulist {
-  padding: 20px;
-}
-
-#menulist ul {
+#menu ul {
   padding: 20px;
 }
 
