@@ -13,7 +13,7 @@ img {
 .grid {
   display:grid;
   grid-template-columns: 55% 25% 20%;
-  grid-template-rows: 100px 550px 100px;
+  grid-template-rows: 15% auto 15%;
 }
 
 #menu ul {
