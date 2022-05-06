@@ -28,17 +28,6 @@ img {
   font-size: 30px;
 }
 
-#portait {
-  grid-area: d;
-  grid-column-start:2;
-  grid-column-end: 3;
-  grid-row-start: 2;
-  grid-row-end: 3;
-  background-color: #FFFFFF;
-  margin: 0px 10px 0px 50px;
-  padding: 20px;
-}
-
 #b {
   grid-area: b;
   grid-column-start:1;
