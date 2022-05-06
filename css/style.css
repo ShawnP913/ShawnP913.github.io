@@ -5,7 +5,7 @@ body{
 }
 
 img {
-  width: 300px;
+  width: 250px;
   height: auto;
 
 }
@@ -17,7 +17,7 @@ img {
 
 .grid {
   display:grid;
-  grid-template-columns: 4fr 1fr 1fr;
+  grid-template-columns: 3fr 1fr 1fr;
   grid-template-rows: 100px 550px 100px;
 }
 
