@@ -28,7 +28,7 @@ img {
   font-size: 30px;
 }
 
-#d {
+#portait {
   grid-area: d;
   grid-column-start:2;
   grid-column-end: 3;
